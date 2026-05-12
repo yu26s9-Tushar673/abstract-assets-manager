@@ -9,6 +9,7 @@ public class Main {
         assets.add(new House("Vacation Home", "2019-03-15", 180000.00, "456 Beach Rd, Miami", 2, 1400, 6000));
         assets.add(new Vehicle("Classic Car",      "2008-07-19", 22000.00, "Honda Civic",       2008, 210000));
         assets.add(new Vehicle("Tushar's Car", "2021-01-20", 23000.00,"Subaru Forester", 2014,87000));
+        assets.add(new Cash("Mattress Stash", "2022-06-07", 5000.00));
 
         System.out.println("----------- Asset Report -----------\n");
 
